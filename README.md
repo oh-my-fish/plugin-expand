@@ -1,4 +1,4 @@
-<img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" height="160px"/>
+<img src="https://cdn.combinatronics.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" height="160px"/>
 
 ### expand
 Word expansion for [Oh My Fish!][omf].
